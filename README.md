@@ -25,6 +25,7 @@
 Input Size : 5
 Input (in order) : 2 4 5 7 8
 Output : 8 5 2 4 7
+Difference in size of dequeue : 0
 ```
 ![image](https://user-images.githubusercontent.com/39466756/203856692-f32389cb-319f-41aa-bf32-0c9f5ca3a727.png)
 ```
@@ -35,6 +36,7 @@ Observation : All the elements are inserted in the dequeue in order F-R-F-R-F.
 Input Size : 6
 Input (in order) : 12 9 7 6 4 2
 Output : 12
+Difference in size of dequeue : 5
 ```
 ![image](https://user-images.githubusercontent.com/39466756/203858012-8c572846-5a80-46b3-a300-5212030847bb.png)
 
@@ -48,6 +50,7 @@ element.
 Input Size : 7
 Input (in order) : 15 22 1 16 99 5 152
 Output : 152 99 16 15 22
+Difference in size of dequeue : 2
 ```
 ![image](https://user-images.githubusercontent.com/39466756/203858287-4b1d0bcb-53e9-428a-9870-2bd77b29235d.png)
 
