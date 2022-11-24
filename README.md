@@ -39,8 +39,9 @@ Output : 12
 ![image](https://user-images.githubusercontent.com/39466756/203858012-8c572846-5a80-46b3-a300-5212030847bb.png)
 
 ```
-Observation : Only the first element is inserted into the dequeue and after that no element is inserted as the 
-insertion conditions are not met as every new input is smaller than the first element.
+Observation : Only the first element is inserted into the dequeue and after that no element is 
+inserted as the insertion conditions are not met as every new input is smaller than the first 
+element.
 ```
 ### Test Case 3 : Insertion in Random Order
 ```
@@ -52,6 +53,6 @@ Output : 152 99 16 15 22
 
 ```
 Observation : Elements are inserted randomly based on the two conditions. 
-There is a trend which shows that till the element which was inserted first the deueue is in descending order and 
-after that it is in ascending order.
+There is a trend which shows that till the element which was inserted first the deueue is in 
+descending order and after that it is in ascending order.
 ```
