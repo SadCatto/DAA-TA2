@@ -56,3 +56,7 @@ Observation : Elements are inserted randomly based on the two conditions.
 There is a trend which shows that till the element which was inserted first the deueue is in 
 descending order and after that it is in ascending order.
 ```
+## Modifications in conditions such that no input is ignored
+---
+#### We can check if the new element is to be inserted from the front then if the new element is grater than the element at front we will insert it from front else we will insert it from rear.
+#### Similarly if a new element is to be inserted form the rear then we can check if the new element is greater than the element at rear and if true we can insert the new element from rear else we can insert the new element from the front.
